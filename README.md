@@ -6,7 +6,7 @@ Small Go CLI that has the following features
 - Ensures passwords meet certain restrictions before creating account
 - Logs users in, allowing them to perform more advanced commands for their account
 - Allows users to change their passwords
-- Uses [BoltDB](github.com/boltdb/bolt), [cobra](github.com/spf13/cobra)/[promptui](github.com/manifoldco/promptui), and [crypto](https://pkg.go.dev/golang.org/x/crypto)
+- Uses [BoltDB](https://github.com/boltdb/bolt), [cobra](https://github.com/spf13/cobra)/[promptui](https://github.com/manifoldco/promptui), and [crypto](https://pkg.go.dev/golang.org/x/crypto)
 
 ## Usage
 ### Install
